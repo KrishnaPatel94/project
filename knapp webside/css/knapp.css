@@ -1,0 +1,185 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 0;
+}
+ /*--main strat*/
+
+.main{
+	height: auto;
+	width: 100%;
+	/*background: green;*/
+	display: flex;
+	flex-wrap: wrap;
+}
+.main .knapp {
+	height: 100px;
+	width: 70%;
+	/*background: lightcoral;*/
+	padding-top: 30px;
+	padding-left: 120px;
+	font-size: 30px;
+}
+.main .knapp a{
+	color:black ;
+	text-decoration: none;
+}
+
+.main .photo{
+	height: 100px;
+	width: 15%;
+	/*background: lightcyan;*/
+	padding-top: 30px;
+	padding-left: 80px;
+}
+.main .photo a{
+	color: black;
+}
+.main .contact{
+	height: 100px;
+	width: 15%;
+	/*background: lightpink;*/
+	padding-top: 30px;
+}
+.main .contact a{
+	color: black;
+	text-decoration: none;
+}
+
+  /*---main end*/
+
+  /*--navi start*/
+.navi{
+	height: 700px;
+	width: 100%;
+	background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/knapp5e6ow/xiaohan-li-unsplash-YKbVoRBqG3fQ40RW.jpg);
+	background-size: 100% 100%;
+	display: flex;
+}
+.navi h1{
+	margin: 0;
+	padding-top: 200px;
+	padding-left:300px;
+	font-size: 70px;
+	color: white;
+	font-family:Andika;
+}
+/*-- navi end*/
+
+/*---name start*/
+
+.name{
+	height: 250px;
+	width: 100%;
+	/*background: lightcoral;*/
+	/*display: flex;*/
+	position: relative;
+
+}
+.name p{
+	margin: 0;
+	color: red;
+	padding-top: 40px;
+	padding-left: 700px;
+	display: flex;
+}
+
+
+.name h1{
+	margin: 0;
+	padding-left: 700px;
+	font-size: 40px;
+}
+.name button{
+	padding: 10px 20px;
+	margin: 20px;
+	background: gray;
+	border-radius: 20px;
+	margin: 20px;
+	color: white;
+	position: absolute;
+	left: 680px;
+	
+	
+}
+ /*--name end*/
+
+/*-- ima start*/
+
+.ima {
+	height:700px;
+	width: 100%;
+	background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,h=752,fit=crop/knapp5e6ow/diego-jimenez-unsplash-YZ9Dn88Kknck23rZ.jpg);
+	background-size: 100% 100%;
+	position: relative;
+	display: flex;
+}
+ .blank{
+ 	height: 250px;
+ 	width: 100%;
+ 	/*background: lightblue;*/
+ }
+ .blank p{
+ 	color: red;
+	padding-top: 40px;
+	padding-left: 700px;
+	margin: 0;
+ }
+.blank h1{
+	padding-left: 700px;
+	font-size: 40px;
+}
+.blank button{
+	padding: 10px 20px;
+	margin: 10px;
+	background: gray;
+	border-radius: 20px;
+	color: white;
+	left: 680px;
+	position: absolute;
+}
+/*-- ima end*/
+
+.footer{
+	height: 100px;
+	width: 100%;
+	/*background: lightgreen;*/
+	display: flex;
+}
+.footer .fa-twitter{
+  padding-left: 600px;
+  padding-top: 50px;
+  font-size: 30px;
+}
+.footer .fa-facebook-square{
+	padding-left: 50px;
+	padding-top: 50px;
+	font-size: 30px;
+}
+
+.footer .fa-instagram{
+	padding-left: 50px;
+	padding-top: 50px;
+	font-size: 30px;
+}
+
+.footer .fa-behance{
+	padding-left: 50px;
+	padding-top: 50px;
+	font-size: 30px;
+}
+p{
+	padding-left: 700px;
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,463 @@
+@media screen and (min-width:336px)
+{
+	.main .knapp {
+	width: 40%;
+	font-size: 25px;
+}
+.main .photo{
+	width: 40%;
+}
+.main .contact{
+	width: 10%;
+}
+ .navi h1{
+ 	font-size: 28px;
+  padding: 0;
+  padding-top: 300px;
+  padding-left: 50px;
+ }
+ .name p{
+	  padding-left: 200px;
+	  display: flex;
+   }
+   .name h1{
+   	padding-left: 200px;
+   }
+   .name button{
+   	left: 190px;
+   }
+   .blank p{
+	padding-left: 200px;
+	margin: 0;
+ }
+.blank h1{
+	padding-left: 200px;
+}
+.blank button{
+	left: 200px;
+}
+.footer .fa-twitter{
+  padding-left: 200px;
+  padding-top: 35px;
+}
+.footer .fa-facebook-square{
+	padding-top: 35px;
+	padding-left: 35px;
+}
+
+.footer .fa-instagram{
+	padding-top: 35px;
+  padding-left: 35px;
+}
+
+.footer .fa-behance{
+	padding-top: 35px;
+	padding-left: 30px;
+}
+
+p{
+	padding-left: 230px;
+	font-size: 18px;
+}
+
+	
+}
+
+
+@media screen and (min-width:536px)
+{
+	.main .knapp {
+	width: 50%;
+	padding-top: 30px;
+	font-size: 25px;
+}
+.main .photo{
+	width: 35%;
+	padding-top: 35px;
+}
+.main .contact{
+	width: 15%;
+	padding-top: 37px;
+}
+
+	.navi{
+	height: 600px;
+	width: 100%;
+	background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/knapp5e6ow/xiaohan-li-unsplash-YKbVoRBqG3fQ40RW.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+ .navi h1{
+ 	font-size: 32px;
+ }
+ .name p{
+	  padding-left: 250px;
+	  display: flex;
+   }
+   .name h1{
+   	padding-left: 250px;
+   }
+   .name button{
+   	left: 230px;
+   }
+   .blank p{
+	padding-left: 250px;
+	margin: 0;
+ }
+.blank h1{
+	padding-left: 250px;
+}
+.blank button{
+	left: 250px;
+}
+.footer .fa-twitter{
+  padding-left: 250px;
+  padding-top: 35px;
+}
+.footer .fa-facebook-square{
+	padding-top: 35px;
+	padding-left: 35px;
+}
+
+.footer .fa-instagram{
+	padding-top: 35px;
+  padding-left: 35px;
+}
+
+.footer .fa-behance{
+	padding-top: 35px;
+	padding-left: 30px;
+}
+
+p{
+	padding-left: 270px;
+	font-size: 18px;
+}
+
+	
+}
+@media screen and (min-width:736px)
+{ 
+	.main .knapp {
+	width: 50%;
+	padding-left: 120px;
+}
+.main .photo{
+	width: 25%;
+	padding-left: 80px;
+}
+.main .contact{
+	width: 25%;
+}
+	.navi h1{
+		font-size: 52px;
+	}
+	.name p{
+	  padding-left: 450px;
+	  display: flex;
+   }
+   .name h1{
+   	padding-left: 450px;
+   }
+   .name button{
+   	left: 430px;
+   }
+    .blank p{
+	padding-top: 60px;
+	padding-left: 450px;
+	margin: 0;
+ }
+.blank h1{
+	padding-left: 450px;
+}
+.blank button{
+	left: 450px;
+}
+.footer .fa-twitter{
+  padding-left: 450px;
+}
+p{
+	padding-left: 480px;
+	font-size: 18px;
+}
+
+   
+}
+
+@media screen and (min-width:1036px)
+{
+	.main .knapp{
+		width: 50%;
+		height: 100px;
+	}
+   .main .photo{
+   	width: 25%;
+   	height: 100px;
+   }
+   .main .contact{
+   	height: 100px;
+   	width: 25%;
+   }
+   .navi h1{
+   	font-size: 65px;
+   }
+   .name{
+   	height: 300px;
+   }
+   .name p{
+   	padding-top: 70px;
+	  padding-left: 530px;
+	  display: flex;
+   }
+   .name h1{
+   	padding-left: 530px;
+   }
+   .name button{
+   	left: 500px;
+   }
+   .blank p{
+	padding-top: 60px;
+	padding-left: 550px;
+	margin: 0;
+ }
+.blank h1{
+	padding-left: 550px;
+}
+.blank button{
+	left: 550px;
+}
+.footer .fa-twitter{
+  padding-left: 520px;
+}
+.footer .fa-facebook-square{
+	padding-left: 50px;
+}
+p{
+	padding-left: 580px;
+	font-size: 18px;
+}
+
+
+}
+@media screen and (min-width:1236px)
+{
+ .navi h1{
+   	font-size: 70px;
+   }
+   .name{
+   	height: 300px;
+   }
+   .name p{
+   	padding-top: 70px;
+	  padding-left: 480px;
+	  display: flex;
+   }
+   .name h1{
+   	padding-left: 480px;
+   }
+   .name button{
+   	left: 470px;
+   }
+   .blank p{
+	padding-top: 60px;
+	padding-left: 480px;
+	margin: 0;
+ }
+.blank h1{
+	padding-left: 480px;
+}
+.blank button{
+	left: 480px;
+}
+.footer .fa-twitter{
+  padding-left: 480px;
+}
+.footer .fa-facebook-square{
+	padding-left: 50px;
+}
+p{
+	padding-left: 500px;
+	font-size: 18px;
+}
+
+
+}
+
+
+@media screen and (min-width:1536px)
+{
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 0;
+}
+ /*--main strat*/
+
+.main{
+	height: auto;
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+.main .knapp {
+	height: 100px;
+	width: 70%;
+	padding-top: 30px;
+	padding-left: 120px;
+	font-size: 30px;
+}
+.main .knapp a{
+	color:black ;
+	text-decoration: none;
+}
+
+.main .photo{
+	height: 100px;
+	width: 15%;
+	padding-top: 30px;
+	padding-left: 80px;
+}
+.main .photo a{
+	color: black;
+}
+.main .contact{
+	height: 100px;
+	width: 15%;
+	/*background: lightpink;*/
+	padding-top: 30px;
+}
+.main .contact a{
+	color: black;
+	text-decoration: none;
+}
+
+  /*---main end*/
+
+  /*--navi start*/
+.navi{
+	height: 700px;
+	width: 100%;
+	background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/knapp5e6ow/xiaohan-li-unsplash-YKbVoRBqG3fQ40RW.jpg);
+	background-size: 100% 100%;
+	display: flex;
+}
+.navi h1{
+	margin: 0;
+	padding-top: 200px;
+	padding-left:300px;
+	font-size: 70px;
+	color: white;
+	font-family:Andika;
+}
+/*-- navi end*/
+
+/*---name start*/
+
+.name{
+	height: 250px;
+	width: 100%;
+	/*background: lightcoral;*/
+	/*display: flex;*/
+	position: relative;
+
+}
+.name p{
+	margin: 0;
+	color: red;
+	padding-top: 40px;
+	padding-left: 700px;
+	display: flex;
+}
+
+
+.name h1{
+	margin: 0;
+	padding-left: 700px;
+	font-size: 40px;
+}
+.name button{
+	padding: 10px 20px;
+	margin: 20px;
+	background: gray;
+	border-radius: 20px;
+	margin: 20px;
+	color: white;
+	position: absolute;
+	left: 680px;
+	
+	
+}
+ /*--name end*/
+
+/*-- ima start*/
+
+.ima {
+	height:700px;
+	width: 100%;
+	background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,h=752,fit=crop/knapp5e6ow/diego-jimenez-unsplash-YZ9Dn88Kknck23rZ.jpg);
+	background-size: 100% 100%;
+	position: relative;
+	display: flex;
+}
+ .blank{
+ 	height: 250px;
+ 	width: 100%;
+ 	/*background: lightblue;*/
+ }
+ .blank p{
+ 	color: red;
+	padding-top: 40px;
+	padding-left: 700px;
+	margin: 0;
+ }
+.blank h1{
+	padding-left: 700px;
+	font-size: 40px;
+}
+.blank button{
+	padding: 10px 20px;
+	margin: 10px;
+	background: gray;
+	border-radius: 20px;
+	color: white;
+	left: 680px;
+	position: absolute;
+}
+/*-- ima end*/
+
+.footer{
+	height: 100px;
+	width: 100%;
+	/*background: lightgreen;*/
+	display: flex;
+}
+.footer .fa-twitter{
+  padding-left: 690px;
+  padding-top: 50px;
+  font-size: 30px;
+}
+.footer .fa-facebook-square{
+	padding-left: 50px;
+	padding-top: 50px;
+	font-size: 30px;
+}
+
+.footer .fa-instagram{
+	padding-left: 50px;
+	padding-top: 50px;
+	font-size: 30px;
+}
+
+.footer .fa-behance{
+	padding-left: 50px;
+	padding-top: 50px;
+	font-size: 30px;
+}
+p{
+	padding-left: 700px;
+}
+
+}	
+
+
