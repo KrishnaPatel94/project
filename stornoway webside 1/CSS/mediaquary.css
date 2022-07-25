@@ -1,0 +1,913 @@
+@media screen and (min-width: 500px){
+	
+	.company{
+		height: auto;
+	}
+	.company .header{
+		height: auto;
+		flex-wrap: wrap;
+		text-align: center;
+	}
+	.company .header .c_name{
+		height: auto;
+		width: 100%;
+		
+		
+	}
+	.company .header .menu{
+		height: auto;
+		width: 100%;
+		
+	}
+	.company .header .menu ul li{
+		padding-right: 20px;
+		font-size: 18px;
+		letter-spacing: 1px;
+	}
+	.company .company_name h1{
+		font-size: 40px;
+		margin-top: 80px;
+		word-spacing: 10px;
+	}
+	.company .company_name button{
+		font-size: 16px;
+		padding: 15px 42px;
+		margin-bottom: 20px;
+	}
+
+	/* Header Ends */
+
+	.navi{
+		
+		height: auto;
+		width: 100%;
+		padding: 20px;
+	}
+	.navi h1{
+		height: auto;
+		padding-top: 20px;
+	}
+	.navi p{
+		height: auto;
+		margin-top: 20px;
+		font-size: 16px;
+	}
+	.read_more button{
+		padding: 10px 30px;
+		font-size: 16px;
+	}
+
+	/* navi Ends */
+	
+	.content{
+		height: auto;
+		width: 100%;
+	
+	}
+	.content h1{
+		font-size: 40px;
+	}
+
+	/* Start Images */
+
+	.images{
+		height: auto;
+		width: 100%;
+		padding: 20px 60px;
+		position: relative;
+		flex-wrap: wrap;
+	}
+	.images .k1{
+		height: auto;
+		width: 100%;
+	}
+	.images .k2{
+		height: auto;
+		width: 100%;
+	}
+	.images .k3{
+		height: auto;
+		width: 100%;
+		margin-bottom: 50px;
+	}
+	.images button{
+		padding: 12px 22px;
+		position: absolute;
+		top: 92%;
+		right: 39%;
+	}
+	/* images Ends  */
+	.text1 {
+		height: auto;
+		width: 100%;
+		flex-wrap: wrap;
+	}
+	.info11{
+		height: auto;
+		width: auto;
+	}
+	.info{
+		height: auto;
+		width: 100%;
+		
+	}
+	.info .y{
+		height: auto;
+		line-height: 80px;
+	}
+	.info .y .num{
+		height: auto;
+		font-size: 40px;
+	}
+	.info .y .infoNum{
+		height: auto;
+		font-size: 22px;
+	}
+
+
+	/* text ends */
+
+	.footer{
+		height: auto;
+		width: 100%;
+		flex-wrap: wrap;
+	}
+	.footer .pic{
+		height: 400px;
+		width: 100%;
+	}
+	.footer .last{
+		height: auto;
+		width: 100%;
+
+	}
+	.footer .last{
+		margin-top: 20px;
+		margin-bottom: 50px;
+		padding: 30px;
+	}
+ 
+	/* footer Ends */
+
+	.footer_last{
+		height: auto;
+		width: 100%;
+		flex-wrap: wrap;
+		padding-bottom: 50px;
+	}
+	.footer_last .a1{
+		height: auto;
+		width: 100%;
+		padding-left: 50px;
+	}
+	.footer_last .a2{
+		height: auto;
+		width: 100%;
+		background-color: black;
+		padding-right: 150px;
+		
+	}
+
+
+}
+
+@media screen and (min-width: 768px){
+
+	.company .header .c_name{
+		height: auto;
+		width: 20%;
+		padding-left: 20px;	
+		
+	}
+	.company .header .menu{
+		height: auto;
+		width: 80%;
+		padding-left: 20px;
+		
+	}
+	.company .header .menu ul li{
+		padding-right: 20px;
+		font-size: 20px;
+	}
+	.company .company_name h1{
+		font-size: 80px;
+		margin-top: 60px;
+	}
+	
+
+	/* Header Ends */
+
+	.navi{
+		
+		height: auto;
+		width: 100%;
+		padding: 20px;
+	}
+	.navi h1{
+		height: auto;
+		padding-top: 20px;
+		font-size: 40px;
+
+	}
+	.navi p{
+		height: auto;
+		margin-top: 20px;
+		font-size: 18px;
+	}
+
+	/* navi Ends */
+	.footer_last{
+		height: auto;
+		width: 100%;
+		flex-wrap: nowrap;
+		padding-bottom: 50px;
+	}
+	.footer_last .a1{
+		height: auto;
+		width: 100%;
+		padding-left: 50px;
+	}
+	.footer_last .a2{
+		height: auto;
+		width: 100%;
+		
+	}
+
+}
+
+
+
+
+
+@media screen and (min-width: 992px){
+
+	
+	.company .header .c_name{
+		height: auto;
+		width: 20%;
+		font-size: 40px;
+		padding-left: 50px;
+		
+	}
+	.company .header .menu{
+		height: auto;
+		width: 80%;
+		padding-left: 70px;
+		
+	}
+	.company .header .menu ul li{
+		padding-right: 20px;
+		font-size: 22px;
+		letter-spacing: 1px;
+	}
+	.company .company_name h1{
+		font-size: 70px;
+		margin-top: 80px;
+		word-spacing: 10px;
+	}
+
+	/* Header Ends */
+
+	.navi{
+		
+		height: auto;
+		width: 100%;
+		padding: 20px;
+	}
+	.navi h1{
+		height: auto;
+		padding-top: 20px;
+	}
+	.navi p{
+		height: auto;
+		margin-top: 20px;
+		font-size: 18px;
+	}
+	.read_more button{
+		padding: 10px 30px;
+		font-size: 16px;
+	}
+
+	/* navi Ends */
+	
+	.content{
+		height: auto;
+		width: 100%;
+	
+	}
+	.content h1{
+		font-size: 40px;
+	}
+
+	/* Start Images */
+
+	.images{
+		height: 500px;
+		width: 100%;
+		padding: 20px;
+		position: relative;
+		flex-wrap: nowrap;
+	}
+	.images .k1{
+		height: 200px;
+		width: 25%;
+	}
+	.images .k2{
+		height: 200px;
+		width: 25%;
+	}
+	.images .k3{
+		height: 200px;
+		width: 25%;
+		margin-bottom: 50px;
+	}
+	.images button{
+		padding: 12px 22px;
+		position: absolute;
+		top: 80%;
+		right: 47%;
+	}
+	/* images Ends  */
+	.text1 {
+		height: auto;
+		width: 100%;
+		flex-wrap: nowrap;
+	}
+	.info11{
+		height: auto;
+		width: 50%;
+	}
+	.info{
+		height: auto;
+		width: 50%;
+		
+	}
+	.info .y{
+		height: 33.33%;
+		line-height: 80px;
+	}
+	.info .y .num{
+		height: 33.33%;
+		font-size: 40px;
+	}
+	.info .y .infoNum{
+		height: 33.33%;
+		font-size: 22px;
+	}
+
+
+	/* text ends */
+
+	.footer{
+		height: auto;
+		width: 100%;
+		flex-wrap: nowrap;
+	}
+	.footer .pic{
+		height: 400px;
+		width: 50%;
+	}
+	.footer .last{
+		height: auto;
+		width: 50%;
+		margin-bottom: 0;
+
+	}
+	
+ 
+	/* footer Ends */
+
+	.footer_last{
+		height: auto;
+		width: 100%;
+		flex-wrap: nowrap;
+		padding-bottom: 50px;
+	}
+	.footer_last .a1{
+		height: auto;
+		width: 100%;
+		padding-left: 50px;
+	}
+	.footer_last .a2{
+		height: auto;
+		width: 100%;
+		background-color: black;
+		padding-right: 150px;
+		
+	}
+
+	
+}
+
+
+
+@media screen and (min-width: 1280px){
+
+	
+	.company{
+		height: auto;
+	}
+	.company .header{
+		height: auto;
+		flex-wrap: nowrap;
+		text-align: center;
+	}
+	.company .header .c_name{
+		height: auto;
+		width: 40%;
+		font-size: 40px;
+		
+		
+	}
+	.company .header .menu{
+		height: auto;
+		width: 60%;
+		
+	}
+	.company .header .menu ul li{
+		padding-right: 20px;
+		font-size: 24px;
+		letter-spacing: 1px;
+	}
+	.company .company_name h1{
+		font-size: 100px;
+		margin-top: 150px;
+		word-spacing: 10px;
+	}
+	.company .company_name button{
+		font-size: 20px;
+		padding: 20px 50px;
+		margin-bottom: 20px;
+	}
+
+	/* Header Ends */
+
+	.navi{
+		
+		height: auto;
+		width: 100%;
+		padding: 20px;
+	}
+	.navi h1{
+		height: auto;
+		padding-top: 60px;
+	}
+	.navi p{
+		height: auto;
+		margin-top: 20px;
+		font-size: 18px;
+	}
+	.read_more button{
+		padding: 20px 50px;
+
+		font-size: 18px;
+	}
+
+	/* navi Ends */
+	
+	.content{
+		height: auto;
+		width: 100%;
+	
+	}
+	.content h1{
+		font-size: 60px;
+	}
+
+	/* Start Images */
+
+	.images{
+		height: 500px;
+		width: 100%;
+		padding: 20px 60px;
+		position: relative;
+		flex-wrap: nowrap;
+	}
+	.images .k1{
+		height: 250px;
+		width: 100%;
+	}
+	.images .k2{
+		height: 250px;
+		width: 100%;
+	}
+	.images .k3{
+		height: 250px;
+		width: 100%;
+		margin-bottom: 50px;
+	}
+	.images button{
+		padding: 12px 22px;
+		position: absolute;
+		top: 78%;
+		right: 46%;
+	}
+	/* images Ends  */
+	.text1 {
+		height: auto;
+		width: 100%;
+		flex-wrap: nowrap;
+	}
+	.info11{
+		height: auto;
+		width: auto;
+	}
+	.info{
+		height: auto;
+		width: 100%;
+		
+	}
+	.info .y{
+		height: 33.33%;
+		line-height: 80px;
+	}
+	.info .y .num{
+		height: auto;
+		font-size: 50px;
+	}
+	.info .y .infoNum{
+		height: auto;
+		font-size: 30px;
+	}
+
+
+	/* text ends */
+
+	.footer{
+		height: auto;
+		width: 100%;
+		flex-wrap: nowrap;
+	}
+	.footer .pic{
+		height: 400px;
+		width: 100%;
+	}
+	.footer .last{
+		height: auto;
+		width: 100%;
+
+	}
+	.footer .last{
+		margin-top: 20px;
+		margin-bottom: 50px;
+		padding: 30px;
+	}
+ 
+	/* footer Ends */
+
+	.footer_last{
+		height: auto;
+		width: 100%;
+		flex-wrap: nowrap;
+		padding-bottom: 50px;
+	}
+	
+}
+
+
+@media screen and (min-width: 1536px){
+  
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 0;
+}
+/*--start company */
+.company{
+	width: 100%;
+	height:800px;
+	background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/stornowayj2oil/heroimage-A1aVeGeGzkheyzwj.png);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	text-align: center;
+	flex-wrap: wrap;
+}
+.company .header{
+	width: 100%;
+	height: 100px;
+	/*background-color: lightcyan;*/
+	text-align: right;
+	line-height: 100px;
+	font-weight: 700;
+	display: flex;
+}
+.company .header .c_name{
+	width: 40%;
+	height: 100px;
+	/*background-color: hotpink;*/
+	text-align: center;
+	line-height: 100px;
+	font-size: 30px;
+	font-weight: 40px;
+	color: white;
+	letter-spacing: 2px;
+	font-family: Alatsi;
+}
+.company .header .menu{
+	width: 60%;
+	height: 100px;
+	/*background-color: magenta;*/
+}
+
+.company .header .menu ul{
+	margin: 0;
+	padding: 0;
+}
+.company .header .menu ul li{
+	list-style: none;
+	display: inline;
+	padding-right: 75px;
+	font-size: 18px;
+	letter-spacing: 1px;
+}
+.company .header .menu ul li a{
+	text-decoration: none;
+	color: white;
+}
+.company .company_name h1{
+	margin: 0;
+	font-size: 100px;
+	color: whitesmoke;
+	margin-top: 200px;
+	word-spacing: 20px;
+  font-family: Alatsi;
+  letter-spacing: 4px;
+}
+.company .company_name button{
+	font-size: 20px;
+	padding: 20px 50px;
+	background-color: whitesmoke;
+	letter-spacing: 2px;
+	margin-top: 90px;
+	border: none;
+
+}
+
+/*--end company
+
+/*-- start navi*/
+.navi{
+	height: 350px;
+	width: 100%;
+	/*background: lightcoral;*/
+	text-align: center;
+
+}
+.navi h1{
+	height: 200px;
+	width: 100%;
+	/*background: yellowgreen;*/
+	margin: 0;
+    padding-top: 60px;
+    font-family: Alatsi;
+    font-family: 700;
+    font-size: 40px;
+    letter-spacing: 1px;
+}
+.navi p{
+	height: 150px;
+	width: 100%;
+	/*background: lightskyblue;*/
+	margin: 0;
+	font-size: 20px;
+	font-family: 150;
+
+} 
+
+.read_more{
+	text-align: center;
+}
+.read_more button{
+	padding: 20px 50px;
+	color: white;
+	background-color: black;
+	font-size: 18px;
+
+}
+
+/*--end navi*/
+.content{
+	width: 100%;
+	height: 300px;
+	background-color: black;
+	text-align: center;
+	margin-top: 20px;
+	padding-top: 100px;
+
+}
+.content h1{
+	margin: 0;
+	color: white;
+	font-weight: 40px;
+	font-size: 60px;
+	font-family: Alatsi;
+	letter-spacing: 3px;
+
+}
+/*---start images*/
+.images{
+	height: 500px;
+	width: 100%;
+	padding: 20px 60px;
+	background: black;
+	text-align: center;
+	justify-content: space-evenly;
+	position: relative;
+	display: flex;
+}
+
+.images .k1{
+	height: 250px;
+	width: 30%;
+	background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=861,h=527,fit=crop/stornowayj2oil/Rectangle-AE03ELjjgaT18QRy.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	
+}
+.images .k2{
+	height: 250px;
+	width: 30%;
+	background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=861,h=527,fit=crop/stornowayj2oil/Rectangle-mp8BM5lRyjHRVVLK.png);
+	background-size: 100% 100%;
+   background-repeat: no-repeat;
+ 
+}
+.images .k3{
+	height: 250px;
+	width: 30%;
+	background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=861,h=527,fit=crop/stornowayj2oil/Rectangle-AE03EL80Wguk6LD5.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+.images button{
+	background: lightslategray;
+	font-size: 18px;
+	background: white;
+	color: black;
+ 	padding: 20px 50px;
+ 	margin-top: 30px;
+ 	position: absolute;
+ 	top: 70%;
+ 	right: 46%;
+}
+.images p{
+	margin-top: 300px;
+    color: white;
+    font-size: 21px;
+}
+
+
+.text1 {
+	width: 100%;
+	height: 600px;
+	display: flex;
+}
+.info11{
+	width: 50%;
+	height: 600px;
+	padding: 50px;
+	padding-top: 100px;
+}
+.info11 h1
+{
+	font-weight: 800;
+	letter-spacing: 2px;
+	font-size: 50px;
+}
+.info11 p{
+	font-size: 20px;
+	font-family: 150;
+	word-spacing: 1px;
+}
+.info11 button 
+{
+	background: black;
+	color: white;
+	border: none;
+	padding: 10px 20px;
+	font-size: 20px;
+}
+.info{
+	width: 50%;
+	height: 600px;
+}
+.info .y{
+	width: 100%;
+	height: 200px;
+	display: flex;
+	text-align: center;
+	line-height: 200px;
+
+}
+.info .y .num{
+	width: 20%;
+	height: 200px;
+	font-size: 70px;
+	font-weight: 700;
+}
+.info .y .infoNum{
+	width: 80%;
+	height: 200px;
+	font-size: 40px;
+	font-weight: 300;
+}
+
+
+
+.footer{
+	height: 800px;
+	width: 100%;
+	/*background-color: greenyellow;*/
+	display: flex;
+}
+
+.footer .pic{
+	height: 800px;
+	width: 70%;
+	background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/stornowayj2oil/careers_image-dOqjMWK1qRT81QvX.png);
+}
+.footer .last{
+	height:270px ;
+	width: 23%;
+	/*background-color: lightcoral;*/
+	margin: 250px 0 0 0;
+}
+.footer h1{
+	font-size: 50px;
+	font-family: 800;
+} 
+.footer p{
+	font-size: 20px;
+	font-size: 120;
+}
+
+.footer button{
+	background-color: black;
+	color: white;
+	padding: 15px 25px;
+	font-size: 20px;
+}
+
+.footer_last{
+	height: 400px;
+	width: 100%;
+	background-color: green;
+	display: flex;
+	text-align: center;
+}
+.footer_last .a1{
+	height: 400px;
+	width: 50%;
+	background-color: black;
+	}
+	.footer_last .a1 h1{
+   font-size: 40px;
+   font-family: Alatsi;
+   letter-spacing: 2px;
+   margin-top: 130px;
+   margin-right: 100px;
+   color: white;
+	}
+  .footer_last .a1 p{
+  	font-size: 20px;
+  	font-family: Alatsi;
+  	margin-top: 100px;
+  	margin-right: 140px;
+  	color: white;
+  }
+.footer_last .a2{
+	height: 400px;
+	width: 50%;
+	background-color: black;
+
+}
+.footer_last .a2 h5{
+	font-size: 15px;
+	font-family: Alatsi;
+	letter-spacing: 1px;
+	margin-top: 130px;
+	color: white;
+	margin-left: 150px;
+}
+.footer_last .a2 p{
+	font-size: 15px;
+	font-family: Alatsi;
+	letter-spacing: 1px;
+	margin-top: 100px;
+	color: white;
+	margin-left: 150px;
+}
+
+
+
+
+}
+
+
+
+
+
+
+
